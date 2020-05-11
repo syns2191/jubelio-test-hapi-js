@@ -17,6 +17,7 @@ how to install
 	```
 
 initialize database
+- before you do migration you must create databse on your local or server and the name of database put in config.json
 - please setting configuration database in config/config.js
 	- default backend configuration 
 	- ```json
