@@ -5,6 +5,9 @@
 	-- hapi.js
 	-- postgrestql
 	-- sequelize (ORM)
+	
+-requirement
+```nodejs v12.0.0 or above```
 
 how to install
 
