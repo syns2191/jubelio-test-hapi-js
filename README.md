@@ -5,6 +5,9 @@
 	-- hapi.js
 	-- postgrestql
 	-- sequelize (ORM)
+	
+-requirement
+```nodejs v12.0.0 or above```
 
 how to install
 
@@ -14,6 +17,7 @@ how to install
 	```
 
 initialize database
+- before you do migration you must create databse on your local or server and the name of database put in config.json
 - please setting configuration database in config/config.js
 	- default backend configuration 
 	- ```json
